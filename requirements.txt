@@ -1,0 +1,7 @@
+gradio>=5.0
+faiss-cpu
+google-genai
+numpy
+rank-bm25
+sentence-transformers
+torch
