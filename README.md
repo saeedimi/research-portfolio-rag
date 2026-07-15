@@ -4,7 +4,8 @@ A **Retrieval-Augmented Generation (RAG)** chatbot that enables natural language
 
 The system combines **hybrid retrieval (FAISS + BM25)** with **cross-encoder reranking** and a **Large Language Model (LLM)** to generate grounded, citation-supported responses.
 
-> 🚀 **Live Demo:** *(Coming soon on Hugging Face Spaces)*  
+> 🚀 **Live Demo:**[Open ResearchGPT Live Demo](https://huggingface.co/spaces/Miladsaeedi70/research-portfolio-rag)
+
 > 💻 **Source Code:** https://github.com/saeedimi/research-portfolio-rag
 
 ---
