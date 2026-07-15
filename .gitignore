@@ -1,0 +1,12 @@
+.env
+.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+.cache/
+
+# Local-only source folders
+data/
+portfolio-repositories/
